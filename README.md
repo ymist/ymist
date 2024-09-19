@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">- Desenvolvedor Web 👨‍💻<br> 💼<br>- Técnologo em Análise e Desenvolvimento de Sistemas (Andamento) 📖</h5>
+<h5 align="left">- Desenvolvedor Web 👨‍💻<br><br>- Técnologo em Análise e Desenvolvimento de Sistemas (Andamento) 📖</h5>
 
 ###
 

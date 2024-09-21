@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">- Ajustes finais do projeto Loja-Online 🏪<br>- Criação do Portfolio 📓</p>
+<br>- Criação do Portfolio 📓</p>
 
 ###
 

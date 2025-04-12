@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">- Analista de Sistemas 💼<br><br>- Técnologo em Análise e Desenvolvimento de Sistemas (Andamento) 📖<br><br> - Freelancer 💼</h5>
+<h5 align="left">- Analista de Sistemas 💼<br><br>- Técnologo em Análise e Desenvolvimento de Sistemas 📖<br><br> - Freelancer 💼</h5>
 
 ###
 
